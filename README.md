@@ -24,5 +24,5 @@
 #### Contato:
 
 <div>
-  <a href="https://www.linkedin.com/in/fernando-guimar%C3%A3es-a8578973/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/fernando-augusto-de-azevedo-guimarães-a8578973/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
