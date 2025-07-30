@@ -1,7 +1,7 @@
 ## Oii, sou o Fernando / Hi, I'm Fernando! 👋
 
-- 🔭 Hoje trabalho com desenvolvimento full-stack VB 5.0 e PHP
-- 🌱 Estudando JavaScript e Dart/Flutter
+- 🔭 Hoje trabalho com desenvolvimento full-stack VB 5.0, PHP, Dart/Flutter
+- 🌱 Banco de Dados: PostGres, Oracle
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faugustus17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
